@@ -1,12 +1,12 @@
 Примеры моих работ по вёрстке
-1. https://libreno.github.io/layout-designer/penguin.html
+1. [Пингвин](https://libreno.github.io/layout-designer/penguin.html)
 
 Выполнена на курсе по CSS от freecodecamp.org.
 
-Актуальная версия курса https://www.freecodecamp.org/learn/responsive-web-design-v9/workshop-flappy-penguin/step-1
+Актуальная версия курса [https://www.freecodecamp.org/learn/responsive-web-design-v9/workshop-flappy-penguin/step-1](https://www.freecodecamp.org/learn/responsive-web-design-v9/workshop-flappy-penguin/step-1)
 
 
-2. https://libreno.github.io/layout-designer/mars.html
+2. [Марс](https://libreno.github.io/layout-designer/mars.html)
 
 Выполнена на Yandex Cup 2020 по Frontend.
 
@@ -19,12 +19,12 @@
   Вам нужно сверстать картинку 512 на 512 пикселей при помощи HTML и CSS. Весь код должен уместиться в 1024 символа с учётом переносов строк и пробелов. Использовать SVG, встроенные изображения и JavaScript нельзя.
 \<style\>  
     /* стили */  
-\<\/style\>  
+\</style\>  
 \<body\>  
     \<!-- верстка --\>\
-\<\/body\>
+\</body\>
 
-У вас есть походный инструмент для эффективного сжатия изображений: https://yadi.sk/d/TE2xicoAatJZMg
+У вас есть походный инструмент для эффективного сжатия изображений: [https://yadi.sk/d/TE2xicoAatJZMg](https://yadi.sk/d/TE2xicoAatJZMg)
 
 Вёрстка должна в точности соответствовать изображению (pixel perfect).
 Для рисования карты использовались следующие цвета: #1d057f, #ffd21f, #f7c407.
